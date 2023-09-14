@@ -2,7 +2,7 @@ import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QLineEdit, QHBoxLayout, QVBoxLayout, QPushButton
 from PyQt5.QtWidgets import QMessageBox
 
-
+## Всем привет
 class Calculator(QWidget):
     def __init__(self):
         super(Calculator, self).__init__()
